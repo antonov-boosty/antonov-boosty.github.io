@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 1
+Host: antonov-boosty.github.io
+Sitemap: antonov-boosty.github.io/sitemap.xml
